@@ -31,7 +31,7 @@ Execução do Projeto:
 2 - Instalar as dependências do Cypress na máquina utilizando os comandos:
 
     npm init
-    
+
     npm install cypress
 
 3 - Baixar as dependencias do projeto:
@@ -46,6 +46,7 @@ Execução do Projeto:
 
 
 Gerar o Relatório de Testes:
+
 1 - Adicionar as dependências do mochawesome:
 
     npm i --save-dev cypress-mochawesome-reporter
