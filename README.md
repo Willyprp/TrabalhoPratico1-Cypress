@@ -29,7 +29,9 @@ Execução do Projeto:
 1 - Realizar a cópia do repositório para máquina pessoal.
 
 2 - Instalar as dependências do Cypress na máquina utilizando os comandos:
+
     npm init
+    
     npm install cypress
 
 3 - Baixar as dependencias do projeto:
