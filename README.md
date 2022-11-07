@@ -33,16 +33,21 @@ Execução do Projeto:
     npm install cypress
 
 3 - Baixar as dependencias do projeto:
+
     npm install
 
 4 - Executar o projeto:
+
     Utilizando o Cypress: ./node_modules/.bin/cypress open
+
     Utilizando o Terminal: ./node_modules/.bin/cypress run --spec 'cypress/e2e/**/'
 
 
 Gerar o Relatório de Testes:
 1 - Adicionar as dependências do mochawesome:
+
     npm i --save-dev cypress-mochawesome-reporter
 
 2 - Executar o projeto:
+
     ./node_modules/.bin/cypress run --spec 'cypress/e2e/**/'
